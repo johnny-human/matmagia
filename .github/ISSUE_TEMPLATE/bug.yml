@@ -2,6 +2,7 @@ name: Bug Report
 description: Report a bug or an issue with the project.
 title: "[BUG] "
 labels: ["bug"]
+projects: ["johnny-human/matmagia"]
 assignees: []
 
 body:
