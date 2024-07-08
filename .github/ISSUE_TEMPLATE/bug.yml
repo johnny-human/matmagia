@@ -1,5 +1,5 @@
 name: Bug Report
-description: Report a bug or an issue with the project.
+about: Report a bug or an issue with the project.
 title: "[BUG] "
 labels: ["bug"]
 assignees: []
